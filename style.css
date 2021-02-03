@@ -1,0 +1,19 @@
+body {
+    text-align: center
+}
+
+#myCarousel {
+    background-color: darkblue;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: coral;
+    font-size: 20px;
+}
